@@ -8,7 +8,7 @@ beautifulsoup4==4.11.2
 beniget==0.4.1
 blinker==1.5
 Brlapi==0.8.4
-Brotli==1.0.9
+Brotli
 CacheControl==0.12.12
 certifi==2022.9.24
 cfgv==3.3.1
