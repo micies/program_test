@@ -1,5 +1,6 @@
 from fastapi import FastAPI
 import uvicorn
+import matplotlib.pyplot as plt
 
 app = FastAPI()
 
